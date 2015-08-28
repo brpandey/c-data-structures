@@ -1,0 +1,259 @@
+
+
+Status: Inserting key "blue"
+ht_insert: inserted node at index (5), key is (blue), value is (wallet), keysize is (4)
+
+ht_lookup: current node keysize 4, key blue, value wallet
+Query: What is the value of the blue key in the ht? wallet
+
+
+Status: Inserting key "brown"
+ht_insert: inserted node at index (2), key is (brown), value is (magazine), keysize is (5)
+
+
+Status: Inserting a bunch of keys....
+ht_lookup: current node keysize 5, key brown, value magazine
+ht_insert: inserted node at index (2), key is (magenta), value is (polygon), keysize is (7)
+ht_insert: inserted node at index (3), key is (black), value is (crow), keysize is (5)
+ht_lookup: current node keysize 5, key black, value crow
+ht_insert: inserted node at index (3), key is (turqoise), value is (iguana), keysize is (8)
+ht_insert: inserted node at index (4), key is (red), value is (pizza), keysize is (3)
+ht_lookup: current node keysize 3, key red, value pizza
+ht_insert: inserted node at index (4), key is (margherita), value is (pizza), keysize is (10)
+ht_lookup: current node keysize 8, key turqoise, value iguana
+ht_lookup: current node keysize 5, key black, value crow
+ht_insert: inserted node at index (3), key is (navy-blue), value is (shirt), keysize is (9)
+ht_lookup: current node keysize 9, key navy-blue, value shirt
+ht_lookup: current node keysize 8, key turqoise, value iguana
+ht_lookup: current node keysize 5, key black, value crow
+ht_insert: inserted node at index (3), key is (rimmed-purple), value is (hat), keysize is (13)
+ht_insert: inserted node at index (6), key is (lime), value is (book cover), keysize is (4)
+ht_lookup: current node keysize 7, key magenta, value polygon
+ht_lookup: current node keysize 5, key brown, value magazine
+ht_insert: inserted node at index (2), key is (fluorescent), value is (headlights), keysize is (11)
+ht_lookup: current node keysize 4, key blue, value wallet
+ht_insert: inserted node at index (5), key is (walkie talkie), value is (black), keysize is (13)
+ht_lookup: current node keysize 11, key fluorescent, value headlights
+ht_lookup: current node keysize 7, key magenta, value polygon
+ht_lookup: current node keysize 5, key brown, value magazine
+ht_insert: inserted node at index (2), key is (green yellow), value is (palm trees), keysize is (12)
+ht_lookup: current node keysize 13, key rimmed-purple, value hat
+ht_lookup: current node keysize 9, key navy-blue, value shirt
+ht_lookup: current node keysize 8, key turqoise, value iguana
+ht_lookup: current node keysize 5, key black, value crow
+ht_insert: inserted node at index (3), key is (honda), value is (coupe), keysize is (5)
+ht_lookup: current node keysize 4, key lime, value book cover
+ht_insert: inserted node at index (6), key is (toyota), value is (camry), keysize is (6)
+ht_lookup: current node keysize 12, key green yellow, value palm trees
+ht_lookup: current node keysize 11, key fluorescent, value headlights
+ht_lookup: current node keysize 7, key magenta, value polygon
+ht_lookup: current node keysize 5, key brown, value magazine
+ht_insert: inserted node at index (2), key is (acid washed), value is (jeans), keysize is (11)
+ht_insert: inserted node at index (1), key is (relaxing), value is (day spa), keysize is (8)
+ht_lookup: current node keysize 10, key margherita, value pizza
+ht_lookup: current node keysize 3, key red, value pizza
+ht_insert: inserted node at index (4), key is (delicious), value is (pizza), keysize is (9)
+ht_lookup: current node keysize 13, key walkie talkie, value black
+ht_lookup: current node keysize 4, key blue, value wallet
+ht_insert: inserted node at index (5), key is (slice), value is (pizza), keysize is (5)
+ht_lookup: current node keysize 5, key slice, value pizza
+ht_lookup: current node keysize 13, key walkie talkie, value black
+ht_lookup: current node keysize 4, key blue, value wallet
+ht_insert: inserted node at index (5), key is (white checkered), value is (shorts), keysize is (15)
+ht_lookup: current node keysize 5, key honda, value coupe
+ht_lookup: current node keysize 13, key rimmed-purple, value hat
+ht_lookup: current node keysize 9, key navy-blue, value shirt
+ht_lookup: current node keysize 8, key turqoise, value iguana
+ht_lookup: current node keysize 5, key black, value crow
+ht_insert: inserted node at index (3), key is (black1), value is (crow-a), keysize is (6)
+ht_lookup: current node keysize 9, key delicious, value pizza
+ht_lookup: current node keysize 10, key margherita, value pizza
+ht_lookup: current node keysize 3, key red, value pizza
+ht_insert: inserted node at index (4), key is (black2), value is (crow-b), keysize is (6)
+ht_lookup: current node keysize 15, key white checkered, value shorts
+ht_lookup: current node keysize 5, key slice, value pizza
+ht_lookup: current node keysize 13, key walkie talkie, value black
+ht_lookup: current node keysize 4, key blue, value wallet
+ht_insert: inserted node at index (5), key is (black3), value is (crow-c), keysize is (6)
+ht_lookup: current node keysize 6, key toyota, value camry
+ht_lookup: current node keysize 4, key lime, value book cover
+ht_insert: inserted node at index (6), key is (black4), value is (crow-d), keysize is (6)
+ht_insert: inserted node at index (0), key is (black5), value is (crow-e), keysize is (6)
+ht_lookup: current node keysize 8, key relaxing, value day spa
+ht_insert: inserted node at index (1), key is (black6), value is (crow-f), keysize is (6)
+ht_lookup: current node keysize 11, key acid washed, value jeans
+ht_lookup: current node keysize 12, key green yellow, value palm trees
+ht_lookup: current node keysize 11, key fluorescent, value headlights
+ht_lookup: current node keysize 7, key magenta, value polygon
+ht_lookup: current node keysize 5, key brown, value magazine
+ht_insert: inserted node at index (2), key is (black7), value is (crow-g), keysize is (6)
+ht_lookup: current node keysize 6, key black1, value crow-a
+ht_lookup: current node keysize 5, key honda, value coupe
+ht_lookup: current node keysize 13, key rimmed-purple, value hat
+ht_lookup: current node keysize 9, key navy-blue, value shirt
+ht_lookup: current node keysize 8, key turqoise, value iguana
+ht_lookup: current node keysize 5, key black, value crow
+ht_insert: inserted node at index (3), key is (black8), value is (crow-h), keysize is (6)
+ht_lookup: current node keysize 6, key black2, value crow-b
+ht_lookup: current node keysize 9, key delicious, value pizza
+ht_lookup: current node keysize 10, key margherita, value pizza
+ht_lookup: current node keysize 3, key red, value pizza
+ht_insert: inserted node at index (4), key is (black9), value is (crow-i), keysize is (6)
+ht_lookup: current node keysize 6, key black9, value crow-i
+ht_lookup: current node keysize 6, key black2, value crow-b
+ht_lookup: current node keysize 9, key delicious, value pizza
+ht_lookup: current node keysize 10, key margherita, value pizza
+ht_lookup: current node keysize 3, key red, value pizza
+ht_insert: inserted node at index (4), key is (black10), value is (crow-j), keysize is (7)
+ht_lookup: current node keysize 6, key black3, value crow-c
+ht_lookup: current node keysize 15, key white checkered, value shorts
+ht_lookup: current node keysize 5, key slice, value pizza
+ht_lookup: current node keysize 13, key walkie talkie, value black
+ht_lookup: current node keysize 4, key blue, value wallet
+ht_insert: inserted node at index (5), key is (black11), value is (crow-k), keysize is (7)
+ht_lookup: current node keysize 6, key black4, value crow-d
+ht_lookup: current node keysize 6, key toyota, value camry
+ht_lookup: current node keysize 4, key lime, value book cover
+ht_insert: inserted node at index (6), key is (black12), value is (crow-l), keysize is (7)
+ht_lookup: current node keysize 6, key black5, value crow-e
+ht_insert: inserted node at index (0), key is (black13), value is (crow-m), keysize is (7)
+ht_lookup: current node keysize 6, key black6, value crow-f
+ht_lookup: current node keysize 8, key relaxing, value day spa
+ht_insert: inserted node at index (1), key is (black14), value is (crow-n), keysize is (7)
+ht_lookup: current node keysize 6, key black7, value crow-g
+ht_lookup: current node keysize 11, key acid washed, value jeans
+ht_lookup: current node keysize 12, key green yellow, value palm trees
+ht_lookup: current node keysize 11, key fluorescent, value headlights
+ht_lookup: current node keysize 7, key magenta, value polygon
+ht_lookup: current node keysize 5, key brown, value magazine
+ht_insert: inserted node at index (2), key is (black15), value is (crow-o), keysize is (7)
+ht_lookup: current node keysize 6, key black8, value crow-h
+ht_lookup: current node keysize 6, key black1, value crow-a
+ht_lookup: current node keysize 5, key honda, value coupe
+ht_lookup: current node keysize 13, key rimmed-purple, value hat
+ht_lookup: current node keysize 9, key navy-blue, value shirt
+ht_lookup: current node keysize 8, key turqoise, value iguana
+ht_lookup: current node keysize 5, key black, value crow
+ht_insert: inserted node at index (3), key is (black16), value is (crow-p), keysize is (7)
+ht_lookup: current node keysize 7, key black10, value crow-j
+ht_lookup: current node keysize 6, key black9, value crow-i
+ht_lookup: current node keysize 6, key black2, value crow-b
+ht_lookup: current node keysize 9, key delicious, value pizza
+ht_lookup: current node keysize 10, key margherita, value pizza
+ht_lookup: current node keysize 3, key red, value pizza
+ht_insert: inserted node at index (4), key is (black17), value is (crow-q), keysize is (7)
+ht_lookup: current node keysize 7, key black11, value crow-k
+ht_lookup: current node keysize 6, key black3, value crow-c
+ht_lookup: current node keysize 15, key white checkered, value shorts
+ht_lookup: current node keysize 5, key slice, value pizza
+ht_lookup: current node keysize 13, key walkie talkie, value black
+ht_lookup: current node keysize 4, key blue, value wallet
+ht_insert: inserted node at index (5), key is (black18), value is (crow-r), keysize is (7)
+ht_lookup: current node keysize 7, key black12, value crow-l
+ht_lookup: current node keysize 6, key black4, value crow-d
+ht_lookup: current node keysize 6, key toyota, value camry
+ht_lookup: current node keysize 4, key lime, value book cover
+ht_insert: inserted node at index (6), key is (black19), value is (crow-s), keysize is (7)
+ht_lookup: current node keysize 7, key black15, value crow-o
+ht_lookup: current node keysize 6, key black7, value crow-g
+ht_lookup: current node keysize 11, key acid washed, value jeans
+ht_lookup: current node keysize 12, key green yellow, value palm trees
+ht_lookup: current node keysize 11, key fluorescent, value headlights
+ht_lookup: current node keysize 7, key magenta, value polygon
+ht_lookup: current node keysize 5, key brown, value magazine
+ht_insert: inserted node at index (2), key is (black20), value is (crow-t), keysize is (7)
+ht_lookup: current node keysize 7, key black16, value crow-p
+ht_lookup: current node keysize 6, key black8, value crow-h
+ht_lookup: current node keysize 6, key black1, value crow-a
+ht_lookup: current node keysize 5, key honda, value coupe
+ht_lookup: current node keysize 13, key rimmed-purple, value hat
+ht_lookup: current node keysize 9, key navy-blue, value shirt
+ht_lookup: current node keysize 8, key turqoise, value iguana
+ht_lookup: current node keysize 5, key black, value crow
+ht_insert: inserted node at index (3), key is (black21), value is (crow-u), keysize is (7)
+ht_lookup: current node keysize 7, key black17, value crow-q
+ht_lookup: current node keysize 7, key black10, value crow-j
+ht_lookup: current node keysize 6, key black9, value crow-i
+ht_lookup: current node keysize 6, key black2, value crow-b
+ht_lookup: current node keysize 9, key delicious, value pizza
+ht_lookup: current node keysize 10, key margherita, value pizza
+ht_lookup: current node keysize 3, key red, value pizza
+ht_insert: inserted node at index (4), key is (black22), value is (crow-v), keysize is (7)
+(Need to rehash, 42 / 7)
+ht_rehash: REHASHING! old size: 7, new size: 14 
+ht_lookup: current node keysize 4, key blue, value wallet
+ht_lookup: current node keysize 5, key slice, value pizza
+ht_lookup: current node keysize 6, key black3, value crow-c
+ht_lookup: current node keysize 7, key black18, value crow-r
+ht_insert: inserted node at index (12), key is (black23), value is (crow-w), keysize is (7)
+ht_lookup: current node keysize 4, key lime, value book cover
+ht_lookup: current node keysize 6, key black4, value crow-d
+ht_lookup: current node keysize 7, key black19, value crow-s
+ht_insert: inserted node at index (13), key is (black24), value is (crow-x), keysize is (7)
+ht_lookup: current node keysize 6, key black5, value crow-e
+ht_insert: inserted node at index (0), key is (black25), value is (crow-y), keysize is (7)
+ht_lookup: current node keysize 6, key black6, value crow-f
+ht_insert: inserted node at index (1), key is (black26), value is (crow-z), keysize is (7)
+ht_lookup: current node keysize 7, key black24, value crow-x
+ht_lookup: current node keysize 4, key lime, value book cover
+ht_lookup: current node keysize 6, key black4, value crow-d
+ht_lookup: current node keysize 7, key black19, value crow-s
+ht_insert: inserted node at index (13), key is (job), value is (happy), keysize is (3)
+
+
+Status: Inserting key "white"
+ht_lookup: current node keysize 7, key magenta, value polygon
+ht_lookup: current node keysize 12, key green yellow, value palm trees
+ht_lookup: current node keysize 11, key acid washed, value jeans
+ht_lookup: current node keysize 7, key black15, value crow-o
+ht_lookup: current node keysize 7, key black20, value crow-t
+ht_insert: inserted node at index (9), key is (white), value is (mouse), keysize is (5)
+
+ht_lookup: current node keysize 6, key toyota, value camry
+ht_lookup: current node keysize 7, key black12, value crow-l
+Query: What is the value of the yellow key in the ht? (nil)
+
+
+Status: Inserting key "yellow"
+ht_lookup: current node keysize 6, key toyota, value camry
+ht_lookup: current node keysize 7, key black12, value crow-l
+ht_insert: inserted node at index (6), key is (yellow), value is (light), keysize is (6)
+
+ht_lookup: current node keysize 6, key yellow, value light
+Query: What is the value of the yellow key in the ht? 0xee2640
+
+
+Status: Deleting key "yellow"
+
+Query: What is the value of the yellow key in the ht? (nil)
+
+ht_lookup: current node keysize 3, key red, value pizza
+Query: What is the value of the red key in the ht? pizza
+
+
+Status: Inserting key "grey"
+ht_lookup: current node keysize 3, key job, value happy
+ht_lookup: current node keysize 7, key black24, value crow-x
+ht_lookup: current node keysize 4, key lime, value book cover
+ht_lookup: current node keysize 6, key black4, value crow-d
+ht_lookup: current node keysize 7, key black19, value crow-s
+ht_insert: inserted node at index (13), key is (grey), value is (carpet), keysize is (4)
+
+
+Status: Inserting key "red"
+ht_lookup: current node keysize 3, key red, value pizza
+key already exists, insert aborted
+ht_lookup: current node keysize 3, key red, value pizza
+Query: What is the value of the red key in the ht? pizza
+
+
+Status: Inserting key "purple"
+ht_lookup: current node keysize 8, key turqoise, value iguana
+ht_lookup: current node keysize 5, key honda, value coupe
+ht_lookup: current node keysize 6, key black1, value crow-a
+ht_lookup: current node keysize 7, key black16, value crow-p
+ht_lookup: current node keysize 7, key black21, value crow-u
+ht_insert: inserted node at index (10), key is (purple), value is (Danielle Steele), keysize is (6)
+
+ht_lookup: current node keysize 5, key brown, value magazine
+Query: What is the value of the brown key in the ht? magazine
